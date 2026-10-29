@@ -3,7 +3,7 @@ age = 24
 height = 4.5
 is_student = True
 
-print(f"my name is {name}, i am {age} years old, i am {height} in height.")
+print(f"my name is {name}, i am {age} years old, i am {height}cm tall.")
 
 print("========BREAKDOWN========")
 
